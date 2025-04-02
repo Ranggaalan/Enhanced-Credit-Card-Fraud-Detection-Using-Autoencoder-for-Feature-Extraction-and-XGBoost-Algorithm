@@ -1,0 +1,2 @@
+# Enhanced-Credit-Card-Fraud-Detection-Using-Autoencoder-for-Feature-Extraction-and-XGBoost-Algorithm
+This project aims to detect credit card fraud using a hybrid deep learning and machine learning approach. The dataset, sourced from Kaggle, contains anonymized transaction data with high-class imbalance (fraud cases account for only 0.172% of transactions). To improve fraud detection, we apply Autoencoder for feature extraction and XGBoost..
